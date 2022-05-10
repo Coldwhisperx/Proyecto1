@@ -1,1 +1,2 @@
-Dale, Vector
+Dale, Vector.
+Hace algo.
