@@ -1,4 +1,5 @@
 Hola, Soy Coldwhisper.
 Esta es una prueba de creación de archivos.
 Además de un entrenamiento sobre el uso de Git.
+Me resultó complicado añadir archivos de Css, pero en un futuro cercano sé que podré aplicarlos.
 Gracias por leer.
